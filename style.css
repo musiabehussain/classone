@@ -1,0 +1,15 @@
+#sectionOne{
+    background-color: brown;
+    width: 300px;
+    padding: 30px;
+    margin: 30px;
+    border: 1px solid blue;
+    background-position: center;
+    /* border-radius: 30px; */
+    border-top-right-radius:42px;
+    background-image: url(https://i.pinimg.com/736x/4d/d5/96/4dd5961aae2eb1c265299d4e1a27212f.jpg);
+}
+.firstpera{
+    color: pink;
+    text-align: center;
+}
